@@ -1,0 +1,16 @@
+Date: April 13/14
+People: Michael
+Work Done: Completed implementing battery functionality
+
+Date: April 16
+People: Michael 
+Work Done: Updated battery tests and UML
+
+Date: April 16
+People: Sebastian 
+Work Done: Added ability to reschedule packages of dead deliverers.
+
+Date: April 18
+People: Sebastian 
+Work Done: Made adjustments so the rescheduling of packages works
+           with deliverers using the beeline route strategy. 

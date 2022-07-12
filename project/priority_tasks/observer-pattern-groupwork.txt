@@ -1,0 +1,22 @@
+Date: March 28, 2021
+People: Isaiah, Anya
+Work done: Created observer class in the UML and in the program.
+
+Date: March 29, 2021
+People: Isaiah, Anya
+Work done: Deleted observer class, implemented RemoveObserver() and AddObserver() in the
+	   DeliverySimulation class
+    -Also created vector of IEntityObserver* in DeliverySimulation
+
+Date: March 30, 2021
+People: Isaiah, Anya
+Work done: Created Notify() in the DeliverySimulation class and createEvent() methods in
+	   the entity classes
+
+Date: March 31, 2021
+People: Isaiah, Anya
+Work done: Added all package notifications and idle drone/robot notifications
+
+Date: April 1, 2021
+People: Isaiah, Anya
+Work done: Added moving drone/robot notifications

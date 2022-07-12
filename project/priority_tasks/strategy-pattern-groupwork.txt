@@ -1,0 +1,19 @@
+Date: April 14, 2021
+People: Isaiah, Anya
+Work done: Outlined the strategy pattern in the UML and in the program
+
+Date: April 15, 2021
+People: Anya
+Work done: Added smart and parabolic concrete classes to the strategy pattern
+
+Date: April 16, 2021
+People: Isaiah
+Work done: Added beeline concrete class to the strategy pattern
+
+Date: April 17, 2021
+People: Isaiah
+Work done: Added testing for beeline and parabolic routes
+
+Date: April 18, 2021
+People: Anya
+Work done: Added strategy pattern discussion to the mainpage

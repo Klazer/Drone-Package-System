@@ -1,0 +1,24 @@
+Date: March 27, 2021
+People: Michael, Sebastian
+Work done: 
+- Created robot class and robot factories. 
+- UML edited for both robot class and factories.
+- factory implemented in delivery simulation.
+
+Date: March 29, 2021
+People: Michael, Sebastian
+Work done: 
+- implemented the robot into ScheduleDelivery()
+- edited Robot to use vector2D instead. 
+
+Date: March 30, 2021
+People: Sebastian
+Work done: 
+- implemented the ability for multiple packages 
+  to be scheduled
+  
+Date: March 31, 2021
+People: Michael 
+Work done: 
+- added new test files for the Robot and its factories
+- updated and fixed tests in other entities
